@@ -19,6 +19,7 @@ Load the query results into a Pandas DataFrame. Explicitly set the column names.
 Sort the DataFrame values by "date".
 Plot the results by using the DataFrame plot method, as the following image shows
 ![Precipitation](images/t1.png)
+
 Use Pandas to print the summary statistics for the precipitation data.
 ### Station Analysis
 Design a query to calculate the total number of stations in the dataset.
@@ -33,6 +34,7 @@ Filter by the station that has the greatest number of observations.
 Query the previous 12 months of TOBS data for that station.
 Plot the results as a histogram with bins=12, as the following image shows
 ![Station](images/t2.png)
+
 Close your session.
 
 ## Part 2: Design Your Climate App
